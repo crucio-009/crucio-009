@@ -2,8 +2,9 @@
 - 👀 I’m interested in challenges that push me hard to give my best and come up with working solutions quickly.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m have excellent communication, leadership, motivational skills and can interact effectively.
-- 📫 manish009kumar112@gmail.com
-- 📫 https://www.linkedin.com/in/manish009
+- 📫 [Email](manish009kumar112@gmail.com)
+- 📫 [LinkedIn](https://www.linkedin.com/in/manish009)
+- 📫 [topmate](https://topmate.io/manish_kumar_09)
 
 <!---
 crucio-009/crucio-009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
